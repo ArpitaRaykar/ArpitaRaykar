@@ -10,4 +10,3 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitaRaykar&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ArpitaRaykar&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaRaykar&layout=compact&theme=radical)
